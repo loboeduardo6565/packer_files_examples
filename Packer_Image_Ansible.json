@@ -1,8 +1,8 @@
 {
     "variables": {
-        "aws_access_key": "AKIAVRQBYO2SB2WAEI6O",
-        "aws_secret_key": "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",
-        "aws_subnet_id": "subnet-0c411055d3e8109cd"
+        "aws_access_key": "aws_access_key",
+        "aws_secret_key": "aws_secret_key",
+        "aws_subnet_id": "aws_subnet_id"
     },
     "builders": [
         {
